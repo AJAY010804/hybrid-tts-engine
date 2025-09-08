@@ -18,7 +18,7 @@ A hybrid Text-to-Speech (TTS) engine built with **Microsoft Edge Neural Voices (
 
 ## 📂 Project Structure
 ```plaintext
-tts-engine/
+hybrid-tts-engine/
 │
 ├── Data/               # Stores generated audio files (ignored in git)
 │   └── .gitkeep
@@ -33,8 +33,8 @@ tts-engine/
 ## ⚙️ Installation & Setup
 1. Clone the repository
    ```
-   git clone https://github.com/your-username/tts-engine.git
-   cd tts-engine
+   git clone https://github.com/AJAY010804/hybrid-tts-engine.git
+   cd hybrid-tts-engine
 2. Create a virtual environment (recommended)
    ```
    python -m venv venv
