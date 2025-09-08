@@ -23,7 +23,7 @@ hybrid-tts-engine/
 ├── Data/               # Stores generated audio files (ignored in git)
 │   └── .gitkeep
 │
-├── .env.example        # Example config file
+├── .env        # Example config file
 ├── .gitignore
 ├── LICENSE
 ├── main.py             # Entry point
