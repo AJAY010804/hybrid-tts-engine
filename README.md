@@ -63,7 +63,7 @@ hybrid-tts-engine/
 - 🚫 Built-in Python standard library (no need to install or add to requirements.txt) - random, asyncio, os and pathlib
 
 ## 📌 Use Cases
-- AI assistants like Darling AI
+- AI assistants like Jarvis AI
 - Chatbots with speech replies
 - Accessibility tools for visually impaired users
 - Interactive educational apps
